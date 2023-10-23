@@ -24,12 +24,30 @@
     <ClCompile Include="worker.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="employee.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="boss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="workerManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="worker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="employee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="boss.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
